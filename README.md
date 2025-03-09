@@ -1,4 +1,4 @@
-# innerlight
+# Innerlight
 
 # Red Social de Apoyo Mutuo
 
