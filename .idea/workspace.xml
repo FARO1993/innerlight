@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b56523a-14a2-4e01-a120-7f55757d7ab6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/apigateway/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigateway/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigateway/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigateway/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigateway/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigateway/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigateway/src/main/java/com/innerlight/microservices/apigateway/ApigatewayApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigateway/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigateway/src/test/java/com/innerlight/microservices/apigateway/ApigatewayApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/authservice/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/authservice/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/authservice/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/authservice/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/authservice/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/authservice/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/authservice/src/main/java/com/innerlight/microservices/authservice/AuthserviceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/authservice/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/authservice/src/test/java/com/innerlight/microservices/authservice/AuthserviceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupservice/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupservice/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupservice/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupservice/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupservice/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupservice/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupservice/src/main/java/com/innerlight/microservices/groupservice/GroupserviceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupservice/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupservice/src/test/java/com/innerlight/microservices/groupservice/GroupserviceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messageservice/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messageservice/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messageservice/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messageservice/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messageservice/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messageservice/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messageservice/src/main/java/com/innerlight/microservices/messageservice/MessageserviceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messageservice/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messageservice/src/test/java/com/innerlight/microservices/messageservice/MessageserviceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/postservice/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/postservice/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/postservice/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/postservice/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/postservice/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/postservice/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/postservice/src/main/java/com/innerlight/microservices/postservice/PostserviceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/postservice/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/postservice/src/test/java/com/innerlight/microservices/postservice/PostserviceApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2u5MhhELDSuXvTTyfpZ3Lnx0etu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature/init-proyect-architecture",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/Facundo Rodriguez/workspaceInnerLight/backend/innerlight/innerlight"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b56523a-14a2-4e01-a120-7f55757d7ab6" name="Changes" comment="" />
+      <created>1741534104191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741534104191</updated>
+    </task>
+    <servers />
+  </component>
+</project>
